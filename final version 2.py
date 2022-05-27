@@ -79,7 +79,8 @@ if asking_question == "1":
 else:
     #Quiz 2 Month
     print("This is a quiz of Months in Maori.")
-    print("You will need to enter the correct Month for each question. ")
+    print("You will need to enter the correct Month for each question.\n"
+          "for month you have to start the word with capital letter")   
     questions=month_question
     answers=month
 
